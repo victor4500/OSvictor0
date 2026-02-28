@@ -1,6 +1,6 @@
 #projeto OSvictor
 
-Eu decidi criar um sistema operacioanl do zero pelo meu PC atualmente estou usando o ubuntu
+Eu decidi criar um sistema operacional do zero pelo meu PC atualmente estou usando o ubuntu
 
 ### o que um SO precisa basico  (checklist):
 
