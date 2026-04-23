@@ -4,6 +4,9 @@ int soma(int a, int b) {
     return a + b;
 
 }
+int menos0(int a int b){
+    return a + b;
+}
 
 int main(){
 
@@ -20,4 +23,15 @@ int main(){
     scanf("%d", &b);
 
     printf( "o resultado: %d\n", soma(a, b));
+
+    printf("deseja agora diminuir? ")
+    scanf char ("%d", &menos)
+
+    if(menos == "sim" ){
+        printf("blz vamos lá\n")
+        printf("quanto deseja diminuit: ")
+        scanf("%d", &c)
+
+        
+    }
 }
